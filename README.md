@@ -120,9 +120,9 @@ Analyzed datasets and built interactive dashboards to uncover business insights.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-pank-7&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-pank-7&layout=compact&theme=tokyonight)
 
 ---
 
@@ -138,11 +138,9 @@ Analyzed datasets and built interactive dashboards to uncover business insights.
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: rautpankaj251@gmail.com
 
-💼 LinkedIn: your-linkedin-link
-
-🌐 Portfolio: your-portfolio-link
+💼 LinkedIn: www.linkedin.com/in/pankaj-raut-27092005-python
 
 ---
 
